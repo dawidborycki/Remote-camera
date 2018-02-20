@@ -6,5 +6,5 @@ Please be advised that in order to make the Cloud tab working you need to specif
 
 ```
 public static string Hostname { get; } = "<TYPE_YOUR_HOSTNAME_HERE>";        
-public static string DeviceKey { get; } = "**<TYPE_YOUR_KEY_HERE>**";
+public static string DeviceKey { get; } = "<TYPE_YOUR_KEY_HERE>";
 ```
